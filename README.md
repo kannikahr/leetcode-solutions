@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kannikahr/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kannikahr/leetcode-solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kannikahr/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kannikahr/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kannikahr/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kannikahr/leetcode-solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kannikahr/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
