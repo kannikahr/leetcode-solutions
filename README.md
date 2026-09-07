@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kannikahr/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kannikahr/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kannikahr/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/kannikahr/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kannikahr/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kannikahr/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kannikahr/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kannikahr/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
