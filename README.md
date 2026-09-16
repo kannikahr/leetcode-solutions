@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kannikahr/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/kannikahr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/kannikahr/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0336-palindrome-pairs](https://github.com/kannikahr/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kannikahr/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kannikahr/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/kannikahr/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/kannikahr/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0336-palindrome-pairs](https://github.com/kannikahr/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kannikahr/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kannikahr/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kannikahr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kannikahr/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0336-palindrome-pairs](https://github.com/kannikahr/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,4 +115,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kannikahr/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0336-palindrome-pairs](https://github.com/kannikahr/leetcode-solutions/tree/master/0336-palindrome-pairs) |
+## Hash Function
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/kannikahr/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
