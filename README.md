@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kannikahr/leetcode-solutions/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/kannikahr/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/kannikahr/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/kannikahr/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kannikahr/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kannikahr/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kannikahr/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/kannikahr/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/kannikahr/leetcode-solutions/tree/master/0118-pascals-triangle) |
 ## Manacher
 |  |
 | ------- |
