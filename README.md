@@ -147,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kannikahr/leetcode-solutions/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/kannikahr/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
