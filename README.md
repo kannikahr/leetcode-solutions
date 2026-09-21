@@ -37,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kannikahr/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/kannikahr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0336-palindrome-pairs](https://github.com/kannikahr/leetcode-solutions/tree/master/0336-palindrome-pairs) |
+| [0389-find-the-difference](https://github.com/kannikahr/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kannikahr/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/kannikahr/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kannikahr/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kannikahr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kannikahr/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0336-palindrome-pairs](https://github.com/kannikahr/leetcode-solutions/tree/master/0336-palindrome-pairs) |
+| [0389-find-the-difference](https://github.com/kannikahr/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kannikahr/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kannikahr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/kannikahr/leetcode-solutions/tree/master/0148-sort-list) |
+| [0389-find-the-difference](https://github.com/kannikahr/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
