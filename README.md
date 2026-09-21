@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kannikahr/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/kannikahr/leetcode-solutions/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kannikahr/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Array
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kannikahr/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/kannikahr/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kannikahr/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/kannikahr/leetcode-solutions/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kannikahr/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kannikahr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kannikahr/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/kannikahr/leetcode-solutions/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kannikahr/leetcode-solutions/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kannikahr/leetcode-solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kannikahr/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
