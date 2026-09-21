@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kannikahr/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/kannikahr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kannikahr/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kannikahr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kannikahr/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0336-palindrome-pairs](https://github.com/kannikahr/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kannikahr/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kannikahr/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kannikahr/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/kannikahr/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kannikahr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kannikahr/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/kannikahr/leetcode-solutions/tree/master/0148-sort-list) |
 ## Greedy
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kannikahr/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kannikahr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kannikahr/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kannikahr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/kannikahr/leetcode-solutions/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
