@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kannikahr/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kannikahr/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0224-basic-calculator](https://github.com/kannikahr/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/kannikahr/leetcode-solutions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kannikahr/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kannikahr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kannikahr/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0268-missing-number](https://github.com/kannikahr/leetcode-solutions/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/kannikahr/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kannikahr/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
@@ -37,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kannikahr/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/kannikahr/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/kannikahr/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/kannikahr/leetcode-solutions/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/kannikahr/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0389-find-the-difference](https://github.com/kannikahr/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kannikahr/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kannikahr/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kannikahr/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kannikahr/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kannikahr/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kannikahr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/kannikahr/leetcode-solutions/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/kannikahr/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kannikahr/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
@@ -177,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kannikahr/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kannikahr/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
